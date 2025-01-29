@@ -1,0 +1,55 @@
+Result for ./images/your_file.jpg: The image shows an invoice for Creative Media, with the name of the company and contact information at the top. The invoice includes a table that lists various items or services rendered, along with their corresponding prices.
+
+**Invoice Details**
+
+* **Company Name:** Creative Media
+* **Contact Information:**
+	+ Address: 2A Dunsbury Street Area, London, London, SW1X4SW
+	+ Phone Number: Not provided
+	+ Email: Not provided
+
+**Table of Items or Services Rendered**
+
+| **Product/Service** | **Price** |
+| --- | --- |
+| Lorem Ipsum Doler | $650.00 |
+| Pellentesque id neque ligula | $10.00 |
+| Interdum et malesuada fames | $25.00 |
+| Vivamus volutpat faucibus | $40.00 |
+
+**Total Amount Due**
+
+The total amount due is $405.00.
+
+Overall, the invoice appears to be a standard business-to-business (B2B) invoice for Creative Media, with a clear and organized layout that makes it easy to read and understand.
+Result for ./images/db.jpg: The image depicts a collage of various characters from the popular anime series Dragon Ball Z. The main character, Goku, is prominently featured in the center of the image, wearing his iconic orange gi and blue sash. His hair is styled in its signature spiky fashion, and he has a determined expression on his face.
+
+Surrounding Goku are several other characters from the series, including his son Gohan, his friend Krillin, and various villains such as Frieza and Cell. Each character is depicted in their own unique pose, showcasing their distinct personalities and abilities.
+
+The background of the image is a solid gray color, which helps to focus attention on the characters themselves. Overall, the image effectively captures the essence of the Dragon Ball Z series, highlighting its colorful cast of characters and epic storylines.
+Result for ./images/inovice_2.jpg: This invoice appears to be for a contractor or carpenter, but it could also apply to other services. The top section of the invoice lists three people who were involved with the project: Jamie M., Tarric W., and Yvonne D.
+
+Below the list of employees is a table that outlines several items being billed, including labor costs and material costs. These materials include a wooden pantry cabinet, white quartz countertops, faucets, cabinets, light fixtures, wallpaper, marble tile, handles, a chandelier, and cabinetry knobs.
+
+The bottom section of the invoice features two buttons: "Total Due" and "Payment Remittance". The "Total Due" button is highlighted in black text on a white background. Underneath it, there's an explanation that if payment isn't received by the deadline due to unavoidable circumstances, you can contact them to set up a payment plan or request an extension.
+
+**Invoice Details:**
+
+* **Employee List:**
+	+ Jamie M.
+	+ Tarric W.
+	+ Yvonne D.
+* **Material List:**
+	+ Wooden pantry cabinet
+	+ White quartz countertops
+	+ Faucets
+	+ Cabinets
+	+ Light fixtures
+	+ Wallpaper
+	+ Marble tile
+	+ Handles
+	+ Chandelier
+	+ Cabinetry knobs
+* **Payment Options:**
+	+ Total Due button (highlighted in black text on a white background)
+	+ Payment Remittance section
