@@ -1,6 +1,6 @@
 # **IMAGE INVOICE SCRAPER**
 
-This Python script leverages **Ollama** and **LLaMA 3.2 Vision** to process invoice images. It extracts structured data using **OCR (Optical Character Recognition)** and organizes it into a predefined format. The extracted information is then either stored as structured JSON or described in a natural language format
+This Python script leverages **Ollama** and **LLaMA 3.2 Vision** to process invoice images. It extracts structured data using **OCR (Optical Character Recognition)** and organizes it into a predefined format. The extracted information is then either stored as structured JSON or described in a natural language format.
 
 * * *
 
